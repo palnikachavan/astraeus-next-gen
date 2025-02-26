@@ -32,7 +32,7 @@ export const FOUNDERS = [
     name: 'Anush Dhavale',
     role: 'Founder & CEO',
     linkedin: 'https://www.linkedin.com/in/anush-dhavale-693488251/',
-    image: 'https://drive.google.com/uc?export=view&id=1UfN9aw7nJqxXXKitTEZtrrlKZR9j_Uiz'
+    image: 'https://sendeyo.com/en/46994ac9e4'
   }
 ];
 
