@@ -14,7 +14,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center">
             <RouterLink to="/" className="flex items-center">
               <img 
-                src="public/images/Logo.jpeg" 
+                src="https://media-hosting.imagekit.io//ce38638f3b3a45d7/Logo.jpeg?Expires=1835196160&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=aA7ub37F9XKmmYxEEm3b~kRHrBrmBPTdwzC5riMHdIABh3JjmwljyqsQUt6D3R6cUoLdRf47oQHNNnfgFVxIhVZLNmwRSE4IKSoz0J8f4FMt2gDemAvj4BpuKOxnkZNlRXkc7B~4K5rpxx474LwKifXD9TNyOtjLgO5CkBIZQ82ZUR9GzL4HxEHwrVPyV6F6fmsd8V7w0fikrSe~iVJHZP1Trdx2loDY2LGre~7PF5~3FtEWd6KDoqibQwnw73w3mCCq~BDc8bjZdAnVpaiFyRHlpI8PrXktOhg~oxjBkZsMHtOkghLZWlb7zC~DZewea51-kKCLA7k4WLAqxLjdgw__" 
                 alt="Astraeus Next Gen" 
                 className="h-10 w-auto"
               />

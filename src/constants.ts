@@ -23,10 +23,8 @@ export const FOUNDERS = [
     name: 'Shreejit Sen',
     role: 'Co-Founder & CEO',
     linkedin: 'https://www.linkedin.com/in/shreejit-sen-7a7b75255/',
-    image: 'https://drive.google.com/uc?export=view&id=1UkRXg36Scrq7hjLCghjE-T0zaeczu5rs'
+    image: 'https://media-hosting.imagekit.io//b01f2b1e15ef4d54/Shreejit-Sen.jpg?Expires=1835196214&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=epJn6yffyO0O9jwtOUX1i5ee4~jEmgRwo8ymDMHm41LM-AfkaoM-R9Qx1Fg2Dmp6f3JSz7f2yXY26MOsOAQdIFadvVEEDTHqWuav1YHqo-NxBoBcsLC-s-OECoRkWDhoGMLKJEX-i38gwCsPeaSC9sHGV1JZdyAxdl991kVj1ediseFO-ZrEpkyZ2YqOFJHJjnO6~Wuvxtc7qXlBAfvm-wPwdfOakEOdGrJA5KtrcDlydNa2CxKex7gFzcqfvBhwJ4WSNJlqzY7R7OkKygDQX1hEXads~uRV61U3nxGkJAX8aMPxaZTP~QsTFKht6YkcTDqfwZNjs0LJmS~4T4GDUA__'
   },
-
-  // <img src="https://drive.google.com/uc?export=view&id=1XyzABC12345" alt="Google Drive Image">
 
   {
     name: 'Anush Dhavale',
