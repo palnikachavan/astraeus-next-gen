@@ -23,13 +23,16 @@ export const FOUNDERS = [
     name: 'Shreejit Sen',
     role: 'Co-Founder & CEO',
     linkedin: 'https://www.linkedin.com/in/shreejit-sen-7a7b75255/',
-    image: 'public/images/Shreejit-Sen.jpg'
+    image: 'https://drive.google.com/uc?export=view&id=1UkRXg36Scrq7hjLCghjE-T0zaeczu5rs'
   },
+
+  // <img src="https://drive.google.com/uc?export=view&id=1XyzABC12345" alt="Google Drive Image">
+
   {
     name: 'Anush Dhavale',
     role: 'Founder & CEO',
     linkedin: 'https://www.linkedin.com/in/anush-dhavale-693488251/',
-    image: 'public/images/Anush-Dhavale.jpg'
+    image: 'https://drive.google.com/uc?export=view&id=1UfN9aw7nJqxXXKitTEZtrrlKZR9j_Uiz'
   }
 ];
 
