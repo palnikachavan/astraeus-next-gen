@@ -147,7 +147,7 @@ const About: React.FC = () => {
               >
                 <img
                   src={founder.image}
-                  alt={"Google Drive Image"}
+                  alt={founder.name}
                   className="w-24 h-24 rounded-full object-cover border-2 border-gray-300 mx-auto"
                 />
                 <h3 className="text-2xl font-bold text-center mb-2">{founder.name}</h3>
